@@ -1,7 +1,1 @@
-# Hi gulnoza
-
-
-
-yo
-
-hi how are you
+# we are using git now
